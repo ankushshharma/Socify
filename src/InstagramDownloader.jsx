@@ -316,7 +316,7 @@ const InstagramDownloader = () => {
                 </div>
                 <p className="text-sm sm:text-base text-gray-400 animate-fade-in mt-2 -mb-8 sm:mt-12" 
                    style={{ lineHeight: '1.5rem', animationDelay: '0.6s' }}>
-                   Download images, videos, and carousels from Instagram
+                   Download images, videos and reels from Instagram. (carousel support coming soon.)
                 </p>
               </div>
 
